@@ -1,0 +1,2 @@
+tellraw @a {"text": "Datapack enabled! Dont forge to enable the resource pack!","color": "#00FF20"}
+tellraw @p [{"text":"Click ","color":"white"},{"text":"here ","color":"green","bold":true,"clickEvent":{"action":"run_command","value":"/function items:recipes"}},{"text":"to learn the Item Additions recipes","color":"white","bold":false}]
