@@ -17,8 +17,8 @@ You can head the the wiki for this datapack for more information on the items.
 ### The resource pack
 1. Do step 1 and 2 of [the datapack installation guide](#the-datapack)
 2. Find the `resourcepacks` folder and open it
-3. Move the resource pack `Item Additions Required Pack` into the folder you are in.
-4. Open Minecraft and head the `Options>Resource Packs` to activate the resource pack.
+3. Move the resource pack `Item Additions Required Pack` into the folder you are in
+4. Open Minecraft and head the `Options>Resource Packs` to activate the resource pack
 
 ## New Items
 - Hyperion
