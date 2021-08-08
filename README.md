@@ -22,6 +22,13 @@ You can head the the [wiki](https://github.com/BSOD-Master/Minecraft-Item-Additi
 
 ## New Items
 - Hyperion
+- Powered Gauntlet
+
+## New mobs
+None yet :(
+
+## New features
+None yet :(
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/82794982/128579225-7d80e25a-127a-4283-8510-3a4597d22ab9.png)
