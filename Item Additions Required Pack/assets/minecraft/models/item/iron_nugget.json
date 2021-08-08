@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_nugget"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data": 111000}, "model": "item/withered_blade"}
+    ]
+}

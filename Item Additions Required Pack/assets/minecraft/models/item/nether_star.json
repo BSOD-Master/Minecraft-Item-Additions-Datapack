@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/nether_star"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data": 101010}, "model": "item/unstable_core"}
+    ]
+}
