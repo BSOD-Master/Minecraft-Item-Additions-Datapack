@@ -1,7 +1,7 @@
 # Minecraft Item Additions Datapack
 This minecraft datapack adds more items into the game.  
 This datapack is incomplete and new items will always be added.  
-You can head the the wiki for this datapack for more information on the items.
+You can head the the [wiki](https://github.com/BSOD-Master/Minecraft-Item-Additions-Datapack/wiki) for this datapack for more information on the items.
 
 ## Installation
 ### The datapack
