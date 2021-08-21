@@ -1,1 +1,0 @@
-tellraw @a {"text": "Datapack enabled! Dont forge to enable the resource pack!","color": "#00FF20"}
