@@ -1,0 +1,1 @@
+summon creeper ~ ~ ~ {Tags:["spectran"],Silent:1b,CustomNameVisible:0b,DeathLootTable:"items:entities/spectran",Health:50f,Fuse:32767,CustomName:'{"text":"Spectran"}',powered:1b,ActiveEffects:[{Id:14b,Amplifier:1b,Duration:20000000,ShowParticles:0b}],Attributes:[{Name:"generic.max_health",Base:50}]}

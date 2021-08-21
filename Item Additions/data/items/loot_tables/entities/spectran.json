@@ -1,0 +1,39 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"quality": 1,
+					"name": "minecraft:ghast_tear",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{display:{Name:'{\"text\":\"Spectral Essence\",\"color\":\"yellow\",\"italic\":false}',Lore:['{\"text\":\"How do you even see\",\"color\":\"gray\"}','{\"text\":\"or feel this?\",\"color\":\"gray\"}']},HideFlags:1,Enchantments:[{}]}",
+							"conditions": [
+								{
+									"condition": "minecraft:killed_by_player",
+									"inverse": false
+								}
+							]
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:killed_by_player",
+							"inverse": false
+						}
+					]
+				},
+				{
+					"type": "minecraft:empty",
+					"weight": 5,
+					"quality": 1
+				}
+			]
+		}
+	]
+}

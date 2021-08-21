@@ -1,0 +1,1 @@
+tellraw @a {"text": "Datapack enabled! Dont forget to enable the resource pack!","color": "#00FF20"}

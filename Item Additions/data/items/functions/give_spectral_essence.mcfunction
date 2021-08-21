@@ -1,0 +1,1 @@
+give @p ghast_tear{display:{Name:'{"text":"Spectral Essence","color":"yellow","italic":false}',Lore:['{"text":"How do you even see","color":"gray"}','{"text":"or feel this?","color":"gray"}']},HideFlags:1,CustomModelData:123455,Enchantments:[{}]} 1
